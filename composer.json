@@ -1,0 +1,16 @@
+{
+    "name": "ilanv/doctrine2-tutorial",
+    "require": {
+        "doctrine/orm": "^2.5",
+        "symfony/yaml": "^3.1"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"}
+    },
+    "authors": [
+        {
+            "name": "ilanv",
+            "email": "ilanv@rboptions.com"
+        }
+    ]
+}
